@@ -1,0 +1,1 @@
+{"rustc":9413812008176919447,"features":"[]","target":3638442326614826118,"profile":731176819336294830,"deps":[["rand v0.3.15",3417685277713404873]],"local":{"MtimeBased":[[1500520412,0],"/Users/tatsuki/GitHub/Learning-Rust/guessing_game/target/debug/.fingerprint/guessing_game-ddd8f937b2647b89/dep-bin-guessing_game-ddd8f937b2647b89"]},"rustflags":[]}
